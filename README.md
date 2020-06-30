@@ -28,4 +28,4 @@ partie4.py: compressing existing png file and calculate the compression error
 
 		      returns : can return graphs  if u uncomment the plot function call 
 
-![alt text](pp3.png)
+![alt text](p3.png)
